@@ -1,5 +1,13 @@
 # vue-demo-store
 
+## 1.1.2
+
+### Patch Changes
+
+- [#1218](https://github.com/shopware/frontends/pull/1218) [`a3de8e0`](https://github.com/shopware/frontends/commit/a3de8e06d702c4f762b8e8cd8a2f1b8e4365a4cf) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - - Fixed closing modal for resetting password page
+
+- [#1223](https://github.com/shopware/frontends/pull/1223) [`4c92624`](https://github.com/shopware/frontends/commit/4c92624cee2cf24e3b00946fbecbad7e2a47bb69) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - - Fixed promotion-not-found error message
+
 ## 1.1.1
 
 ### Patch Changes
